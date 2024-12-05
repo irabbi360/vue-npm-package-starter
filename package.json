@@ -15,6 +15,7 @@
     },
     "./style.css": "./dist/style.css"
   },
+  "exclude": ["src/App.vue", "src/main.ts"],
   "types": "./dist/index.d.ts",
   "scripts": {
     "dev": "vite",
