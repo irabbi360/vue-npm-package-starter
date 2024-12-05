@@ -1,6 +1,7 @@
 # Vue NPM Package Starter
 
-## Create and Publish a Vue NPM Package
+## How to Create and Publish a Vue NPM Package
+To create a Vue.js npm package using this repository, simply modify the contents of the lib folder in the root directory. Inside, you'll find an example of a Vue component that you can use as a template for building your own Vue NPM package.
 
 ## Test the Library
 We can now run `npm run build` and then test out our library. To do this, open up a Vue project (you can open a current Vue 3 project you have, or create a blank one).
