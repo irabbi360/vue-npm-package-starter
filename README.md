@@ -12,10 +12,12 @@ If you haven't signed into NPM inside your terminal you can do that by running t
 
 Then just run the `npm publish` command and the package should be pushed up and made available on NPM.
 
-## How to Install this
+## Installation Instructions
 
 `npm i vue-example-npm`
 
-useages
+## Usage in Vue.js or Nuxt.js Projects
+Once installed, you can import and use the component like this:
+
 `import VueExampleNpm from 'vue-example-npm'`
 `import 'vue-example-npm/dist/style.css`
