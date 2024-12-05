@@ -11,3 +11,11 @@ We can now run `npm run build` and then test out our library. To do this, open u
 If you haven't signed into NPM inside your terminal you can do that by running the `npm adduser` command.
 
 Then just run the `npm publish` command and the package should be pushed up and made available on NPM.
+
+## How to Install this
+
+`npm i vue-example-npm`
+
+useages
+`import VueExampleNpm from 'vue-example-npm'`
+`import 'vue-example-npm/dist/style.css`
