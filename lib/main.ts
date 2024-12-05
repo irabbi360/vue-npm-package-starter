@@ -1,2 +1,2 @@
 import VueExampleNpm from './VueExampleNpm.vue'
-export { VueExampleNpm }
+export default { VueExampleNpm }
