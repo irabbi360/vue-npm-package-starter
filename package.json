@@ -6,14 +6,14 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/vue-example-npm.umd.cjs",
-  "module": "./dist/vue-example-npm.js",
+  "main": "/dist/vue-example-npm.umd.cjs",
+  "module": "/dist/vue-example-npm.js",
   "exports": {
     ".": {
       "import": "./dist/vue-example-npm.js",
       "require": "./dist/vue-example-npm.umd.cjs"
     },
-    "./style.css": "./dist/style.css"
+    "./style.css": "./dist/vue-example-npm.css"
   },
   "exclude": ["src/App.vue", "src/main.ts"],
   "types": "./dist/index.d.ts",
